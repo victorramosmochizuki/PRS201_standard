@@ -1,6 +1,10 @@
 # PRS201_standard
 El objetivo es incrementar el valor de la investigación y reducir el desperdicio de investigación al habilitar a quienes están planificando conducir, realizar, informar, editar, publicar o evaluar críticamente una investigación para la salud, utilizando los estándares vigentes para informes de investigación.
+
+Los reportes organizan y exhiben la información contenida en una base de datos. Su función es aplicar un formato determinado a los datos para mostrarlos por medio de un diseño atractivo y que sea fácil de interpretar por los usuarios.
+
 El reporte contiene información recabada sobre el evento designado de forma organizada y relacionada de una manera que denota aspectos de una temática específica.
+
 ## CARACTERISTICAS
  - Claridad.
  - Concision.
