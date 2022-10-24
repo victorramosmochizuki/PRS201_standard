@@ -10,6 +10,11 @@ El objetivo es incrementar el valor de la investigación y reducir el desperdici
  - Mayor ahorro de control de riesgos
  - Mejora la imagen coorporativa
  - Mayor crdibilidad y confianza
+ - Genera confianza
+ - Deja claro los objetivos
+ - Documenta experiencias
+ - Aporta a la inteligencia de negocios
+ - Colabora en el enfoque
 ## APLICACIONES PARA REALIZAR REPORTES
  - Infogram
  - CartoDB
