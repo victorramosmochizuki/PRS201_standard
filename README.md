@@ -1,6 +1,3 @@
-# PRS201_standard
-standar
-
 ESTANDARES DE REPORTES
 El objetivo es incrementar el valor de la investigación y reducir el desperdicio de investigación al habilitar a quienes están planificando conducir, realizar, informar, editar, publicar o evaluar críticamente una investigación para la salud, utilizando los estándares vigentes para informes de investigación.
 
